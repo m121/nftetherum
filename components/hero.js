@@ -124,7 +124,7 @@ useEffect(() => {
               Mint NFT
             </button>
           )}
-          <a href="https://testnets.opensea.io/collection/squarenft-dqbhuvhzco" target="_blank" className="btn bg-cyan-500 px-4 py-2 mt-8 text-center text-lg font-semibold">See the collection on OpenSEA</a>
+          <a href="https://testnets.opensea.io/collection/squarenft-dqbhuvhzco" target="_blank" rel="noreferrer" className="btn bg-cyan-500 px-4 py-2 mt-8 text-center text-lg font-semibold">See the collection on OpenSEA</a>
           </div>
       </div>
       <div className="footer-container">
